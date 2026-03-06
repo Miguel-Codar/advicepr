@@ -28,9 +28,17 @@ export const Footer = () => {
           <div>
             <h4 className="text-sm font-semibold uppercase tracking-wider mb-6 text-gray-100">Contato</h4>
             <ul className="space-y-4 text-sm text-gray-200">
-              <li>(81) 3132-1568</li>
+              <li>
+                <a href="https://api.whatsapp.com/send?phone=5581982215319" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+                  (81) 3132-1568
+                </a>
+              </li>
               <li>contato@advicepr.com.br</li>
-              <li>R. Gen. José Semeão, 108<br/>Santo Amaro, Recife - PE</li>
+              <li>
+                <a href="https://www.google.com/maps/search/?api=1&query=R.+Gen.+José+Semeão,+108+-+Santo+Amaro,+Recife+-+PE,+50050-120" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+                  R. Gen. José Semeão, 108<br/>Santo Amaro, Recife - PE, 50050-120
+                </a>
+              </li>
             </ul>
           </div>
         </div>

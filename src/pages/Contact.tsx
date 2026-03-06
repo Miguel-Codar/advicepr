@@ -52,7 +52,9 @@ export const Contact = () => {
                   </div>
                   <div>
                     <h4 className="text-lg font-bold text-gray-900 mb-1">Telefone</h4>
-                    <p className="text-gray-600 text-lg">(81) 3132-1568</p>
+                    <a href="https://api.whatsapp.com/send?phone=5581982215319" target="_blank" rel="noopener noreferrer" className="text-gray-600 text-lg hover:text-[#0a72af] transition-colors">
+                      (81) 3132-1568
+                    </a>
                   </div>
                 </div>
 
@@ -62,11 +64,11 @@ export const Contact = () => {
                   </div>
                   <div>
                     <h4 className="text-lg font-bold text-gray-900 mb-1">Endereço</h4>
-                    <p className="text-gray-600 text-lg leading-relaxed">
+                    <a href="https://www.google.com/maps/search/?api=1&query=R.+Gen.+José+Semeão,+108+-+Santo+Amaro,+Recife+-+PE,+50050-120" target="_blank" rel="noopener noreferrer" className="text-gray-600 text-lg leading-relaxed hover:text-[#0a72af] transition-colors block">
                       R. Gen. José Semeão, 108<br />
                       Santo Amaro<br />
                       Recife - PE, 50050-120
-                    </p>
+                    </a>
                   </div>
                 </div>
 

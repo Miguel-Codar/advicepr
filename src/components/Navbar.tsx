@@ -24,10 +24,10 @@ export const Navbar = () => {
             
             <div className="h-4 w-px bg-gray-200"></div>
 
-            <Link to="/contato" className="bg-[#176799] text-white px-5 py-2.5 rounded-full text-sm font-medium hover:bg-[#0a72af] transition-colors flex items-center gap-2">
+            <a href="https://api.whatsapp.com/send?phone=5581982215319" target="_blank" rel="noopener noreferrer" className="bg-[#176799] text-white px-5 py-2.5 rounded-full text-sm font-medium hover:bg-[#0a72af] transition-colors flex items-center gap-2">
               <Phone className="w-4 h-4" />
               (81) 3132-1568
-            </Link>
+            </a>
             <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#0a72af] transition-colors">
               <Linkedin className="w-5 h-5" />
             </a>
