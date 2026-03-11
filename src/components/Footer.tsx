@@ -29,8 +29,8 @@ export const Footer = () => {
             <h4 className="text-sm font-semibold uppercase tracking-wider mb-6 text-gray-100">Contato</h4>
             <ul className="space-y-4 text-sm text-gray-200">
               <li>
-                <a href="https://api.whatsapp.com/send?phone=5581982215319" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
-                  (81) 3132-1568
+                <a href="https://api.whatsapp.com/send?phone=558194386948" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+                  (81) 9438-6948
                 </a>
               </li>
               <li>contato@advicepr.com.br</li>

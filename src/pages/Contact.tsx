@@ -52,8 +52,8 @@ export const Contact = () => {
                   </div>
                   <div>
                     <h4 className="text-lg font-bold text-gray-900 mb-1">Telefone</h4>
-                    <a href="https://api.whatsapp.com/send?phone=5581982215319" target="_blank" rel="noopener noreferrer" className="text-gray-600 text-lg hover:text-[#0a72af] transition-colors">
-                      (81) 3132-1568
+                    <a href="https://api.whatsapp.com/send?phone=558194386948" target="_blank" rel="noopener noreferrer" className="text-gray-600 text-lg hover:text-[#0a72af] transition-colors">
+                      (81) 9438-6948
                     </a>
                   </div>
                 </div>
