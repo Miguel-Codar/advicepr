@@ -12,13 +12,13 @@ export const Home = () => {
     },
     {
       icon: <FileText className="w-6 h-6" />,
-      title: 'Fiscal',
-      description: 'Planejamento tributário eficaz e conformidade fiscal para otimizar seus impostos.'
+      title: 'Fiscal e Levantamento de Crédito Tributário',
+      description: 'Planejamento tributário eficaz, conformidade fiscal e recuperação de tributos pagos a mais.'
     },
     {
       icon: <Users className="w-6 h-6" />,
-      title: 'DP e Levantamento de Crédito Tributário',
-      description: 'Administração de pessoal e recuperação de tributos pagos a mais.'
+      title: 'Departamento Pessoal',
+      description: 'Administração de pessoal e rotinas trabalhistas completas.'
     },
     {
       icon: <Briefcase className="w-6 h-6" />,

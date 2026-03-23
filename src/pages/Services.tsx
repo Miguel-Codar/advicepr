@@ -18,24 +18,26 @@ export const Services = () => {
     },
     {
       icon: <FileText className="w-8 h-8" />,
-      title: 'Fiscal',
-      description: 'Planejamento tributário eficaz e conformidade fiscal para otimizar seus impostos.',
+      title: 'Fiscal e Levantamento de Crédito Tributário',
+      description: 'Planejamento tributário eficaz, conformidade fiscal e recuperação de tributos pagos a mais.',
       features: [
         'Planejamento tributário anual',
         'Apuração de impostos',
         'Obrigações acessórias',
-        'Análise de benefícios fiscais'
+        'Análise de benefícios fiscais',
+        'Revisão de tributos federais e estaduais',
+        'Recuperação de créditos tributários'
       ]
     },
     {
       icon: <Users className="w-8 h-8" />,
-      title: 'DP e Levantamento de Crédito Tributário',
-      description: 'Administração de pessoal e recuperação de tributos pagos a mais.',
+      title: 'Departamento Pessoal',
+      description: 'Administração de pessoal e rotinas trabalhistas completas.',
       features: [
         'Gestão completa da folha de pagamento',
         'Admissões e rescisões',
-        'Revisão de tributos federais e estaduais',
-        'Recuperação de créditos tributários'
+        'Férias e 13º salário',
+        'Apuração de encargos trabalhistas'
       ]
     },
     {
